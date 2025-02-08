@@ -9,7 +9,7 @@ Login Page:
 ![LoginPage](Screenshot_20250208_182931_Happy_Tails.jpg)
 
 Register page 1: Enter Owner's information
-![Register1](Screenshot_20250208_182927_Happy_Tails.jpg)
+![Register1](Screenshot_20250208_183227_Happy_Tails.jpg)
 
 Register page 2: Enter Dog's information
 ![Register2](Screenshot_20250208_193436_Happy_Tails.jpg)
