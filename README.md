@@ -3,7 +3,7 @@
 
 ## Features and Functionalities
 Login or Register
-![LaunchAppPage](images/Screenshot_20250208_182927_Happy_Tails.jpg)
+![LaunchAppPage](Screenshot_20250208_182927_Happy_Tails.jpg)
 
 Login Page:
 ![LoginPage](images/Screenshot_20250208_182931_Happy_Tails.jpg)
