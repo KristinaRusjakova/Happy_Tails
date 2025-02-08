@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">Happy_Tails</string>
+
+    <string name="PawllianceLogoImageDescription">HappyTails Logo</string>
+
+    <!-- APP ENTRY POINT-->
+    <string name="WelcomeApplicationTextView">Welcome to HappyTails!</string>
+    <string name="LoginButton">Login</string>
+    <string name="SignUpButton">Sign Up</string>
+    <string name="SignUpMainTextTop">Sign Up for HappyTails!</string>
+
+    <!-- SIGN UP ACTIVITY PART 1-->
+    <string name="SignUpDogOwnerSection">Step 1 - Dog Owner Section</string>
+    <string name="SignUpOwnersName">Name: </string>
+    <string name="SignUpOwnersCity">City: </string>
+    <string name="SignUpOwnersEmail">Email: </string>
+    <string name="SignUpOwnersPassword">Password: </string>
+    <string name="SignUpOwnersConfirmPassword">Confirm Password: </string>
+    <string name="SignUpOwnersFullNameHint">Please fill out your Full Name</string>
+    <string name="SignUpOwnersEmailHint">Please fill out your Email Address</string>
+    <string name="SignUpOwnersPasswordHint">Your Password</string>
+    <string name="SignUpNextPageButton">Next - Your Dog</string>
+    <string name="SignUpErrorMessageOwnersName">Enter your correct Full Name</string>
+    <string name="SignUpErrorMessageEmail">Enter valid Email</string>
+    <string name="SignUpErrorMessagePassword">Enter correct Password</string>
+    <string name="SignUpErrorMessageEmailExists">Email already Exists</string>
+    <string name="SignUpErrorMessagePasswordMatch">Password does not Match</string>
+    <string-array name="city_array">
+        <item>Skopje</item>
+        <item>Bitola</item>
+        <item>Veles</item>
+    </string-array>
+
+    <!-- SIGN UP ACTIVITY PART 2-->
+    <string name="SignUpDogSection">Step 2 - Dog Section</string>
+    <string name="SignUpDogNameHint">Please fill out your Dog\'s Name</string>
+    <string name="SignUpDogName">Dog Name: </string>
+    <string name="SignUpDogBreed">Breed: </string>
+    <string name="SignUpDogBirthdayHint">DD/MM/YYYY (e.g. 03/03/2012)</string>
+    <string name="SignUpDogBirthday">Birthday: </string>
+    <string name="SignUpDogGender">Gender: </string>
+    <string name="SignUpCompleteSignUpButton">Complete Sign Up</string>
+    <string name="SignUpDogsImageIcon">Picture: </string>
+    <string name="SignUpTakePhotoButton">Take a Photo</string>
+    <string name="SignUpChooseImageButton">Choose Image</string>
+    <string name="SignUpErrorMessageDogName">Enter your Dog\'s correct Full Name</string>
+    <string name="SignUpErrorMessageDogBirthday">Enter your Dog\'s correct Birthday</string>
+    <string name="SignUpErrorMessageDogBirthdayFormat">Enter your Dog\'s correct Birthday Format</string>
+    <string name="SignUpSuccessMessage">You have successfully signed up for HappyTails! Please Login below: </string>
+    <string-array name="dogGender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="dogBreeds_array">
+        <item>Akita</item>
+        <item>Beagle</item>
+        <item>Border Collie</item>
+        <item>Boxer</item>
+        <item>Bulldog</item>
+        <item>Chihuahua</item>
+        <item>Chow Chow</item>
+        <item>Dalmatian</item>
+        <item>German Shepherd</item>
+        <item>Golden Retriever</item>
+        <item>Husky</item>
+        <item>Jack Russell Terrier</item>
+        <item>Labrador</item>
+        <item>Maltese</item>
+        <item>Mastiff</item>
+        <item>Pomeranian</item>
+        <item>Poodle</item>
+        <item>Rottweiler</item>
+        <item>Saint Bernard</item>
+        <item>Spaniel</item>
+        <item>Spitz</item>
+        <item>Yorkshire Terrier</item>
+        <item>Wolfhound</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="LoginActivityWelcomeBackBuddy">Welcome back, Buddy! Let\'s go on a Playdate!</string>
+    <string name="SignUpErrorMessageIncorrectPassword">Please enter the right password.</string>
+
+    <!-- LOGIN AREA MAIN -->
+    <string name="LoginActivityUpdateProfileButton">Update Profile</string>
+    <string name="LoginActivityMyPawllianceBuddiesButton">My HappyTails Buddies</string>
+    <string name="LoginActivityFindNewFriendsButton">Find New Furry Friends</string>
+    <string name="LoginActivityMyPawllianceCockpit">My HappyTails Cockpit</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- MAP ACTIVITY AREA -->
+    <string name="title_activity_map_tracking">Map Route Tracking</string>
+    <string name="track_path_on_map">Walk and route your path on map</string>
+    <string name="permission_notice">Please note that your location permission is important if you want to draw your route on map while walking with your buddy.</string>
+    <string name="permission_title">Location Permission Denied</string>
+    <string name="cancel_permission_notice">Please come back again when you need it and grant the permission</string>
+    <string name="MapActivityStartTrackingButton">Start Your Dog Walk</string>
+
+    <!-- FIND NEW FRIENDS LOGIN MAIN AREA MAIN -->
+    <string name="FindFriendsActivityHeadline">Find new HappyTails Friends in your area</string>
+
+    <!-- MY WALKING ACTIVITIES LOGIN MAIN AREA MAIN -->
+    <string name="MyWalkingActivitiesHeadline">Get an overview of your walking activites: </string>
+
+    <!-- EDIT PROFILE INFORMATION LOGIN MAIN AREA MAIN -->
+    <string name="EditProfileInformationHeadline">Your HappyTails Profile</string>
+    <string name="EditProfileInformationEmail">Email:</string>
+    <string name="EditProfileInformationOwnerEmail">Your Email</string>
+    <string name="EditProfileInformationPassword">Password:</string>
+    <string name="EditProfileInformationOwnerPassword">*******</string>
+    <string name="EditProfileInformationCity">City:</string>
+    <string name="EditProfileInformationOwnerCity">Your City</string>
+    <string name="EditProfileInformationName">Name:</string>
+    <string name="EditProfileInformationOwnerName">Your Name</string>
+    <string name="EditProfileInformationDogName">Dog Name:</string>
+    <string name="EditProfileInformationOwnerDogName">Your Dog\'s Name</string>
+    <string name="EditProfileInformationDogBreed">Dog Breed:</string>
+    <string name="EditProfileInformationOwnerDogBreed">Your Dog\'s Breed</string>
+    <string name="EditProfileInformationDogBirthday">Dog Birthday:</string>
+    <string name="EditProfileInformationOwnerDogBirthday">Your Dog\'s Birthday</string>
+    <string name="EditProfileInformationDogGender">Dog Gender:</string>
+    <string name="EditProfileInformationOwnerDogGender">Your Dog\'s Gender</string>
+    <string name="EditProfileInformationDogDescription">Dog Description:</string>
+    <string name="EditProfileInformationOwnerDogDescription">Your Dog\'s Description</string>
+    <string name="EditProfileInformationBackToMainAreaButton">Back To Your Cockpit</string>
+    <string name="EditProfileInformationButtonUpdateInformation">Update</string>
+    <string name="EditProfileInformationUpdateImageButton">Open Gallery</string>
+    <string name="EditProfileInformationDeleteProfileButton">Delete Profile</string>
+
+    <!-- POP UP DESCRIPTION -->
+    <string name="PopUpDogDescription">Dog Description:</string>
+    <string name="PopUpDogEditDescription">Please insert a new description for your dog.</string>
+    <string name="PopUpDogEditDescriptionSaveButton">Save</string>
+    <string name="PopUpDogEditDescriptionCancelButton">Cancel</string>
+    <string name="PopUpDogDontDeleteAccountButton">Stay with HappyTails</string>
+    <string name="PopUpDogDeleteAccountButton">Delete Account</string>
+    <string name="PopUpDogDontDeleteWalkingActivityButton">Cancel</string>
+    <string name="PopUpDogDeleteWalkingActivityButton">Delete Walk</string>
+    <string name="PopUpDogDeleteAccountDescription">Are you sure you want to delete your account and leave your furry friends?</string>
+    <string name="PopUpDogDeleteWalkingActivityDescription">Are you sure you want to delete your walking activity?</string>
+    <string name="PopUpThanksForTheDogWalkDescription">Thank you for taking your Furry Friend for a Walk with HappyTails!</string>
+    <string name="PopUpThanksForTheDogWalkWalkedDog">Walked Dog:</string>
+    <string name="PopUpThanksForTheDogWalkWalkedDistance">Distance:</string>
+    <string name="PopUpDogThanksForTheDogWalkWalkedDate">Date: </string>
+    <string name="PopUpDogThanksForTheDogWalkWalkedDistance">Distance (m): </string>
+    <string name="PopUpDogThanksForTheDogWalkWalkedMinutes">Duration (min): </string>
+    <string name="PopUpDogThankForTheDogWalkDeleteWalkButton">Delete Walk</string>
+    <string name="PopUpThanksForTheDogWalkWalkedDogOwnerDateTextView">Date of Walk</string>
+    <string name="PopUpThanksForTheDogWalkWalkedDogOwnerDistanceTextView">Your Distance</string>
+    <string name="PopUpThanksForTheDogWalkWalkedDogOwnerDurationTextView">Your Duration</string>
+    <string name="PopUpThanksForTheDogWalkWalkedDogOwnerDescriptionTextView">Your Description</string>
+    <string name="PopUpThanksForTheDogWalkWalkingDescriptionTextView">Description:</string>
+
+
+</resources>
