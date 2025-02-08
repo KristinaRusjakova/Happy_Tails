@@ -6,26 +6,26 @@ Login or Register
 ![LaunchAppPage](Screenshot_20250208_182927_Happy_Tails.jpg)
 
 Login Page:
-![LoginPage](images/Screenshot_20250208_182931_Happy_Tails.jpg)
+![LoginPage](Screenshot_20250208_182931_Happy_Tails.jpg)
 
 Register page 1: Enter Owner's information
-![Register1](images/Screenshot_20250208_182927_Happy_Tails.jpg)
+![Register1](Screenshot_20250208_182927_Happy_Tails.jpg)
 
 Register page 2: Enter Dog's information
-![Register2](images/Screenshot_20250208_193436_Happy_Tails.jpg)
+![Register2](Screenshot_20250208_193436_Happy_Tails.jpg)
 
 Track you walk using Google Maps
-![StartWalk](images/Screenshot_20250208_182954_Happy_Tails.jpg)
-![FinishWalk](images/Screenshot_20250205_164627_Happy_Tails.jpg)
+![StartWalk](Screenshot_20250208_182954_Happy_Tails.jpg)
+![FinishWalk](Screenshot_20250205_164627_Happy_Tails.jpg)
 
 Dog walk summary page that displays date, time walked, distance walked, dog name
-![WalksPage](images/Screenshot_20250208_183131_Happy_Tails.jpg)
+![WalksPage](Screenshot_20250208_183131_Happy_Tails.jpg)
 
 HappyTails friends page that displays current users in your city
-![FriendsPage](images/Screenshot_20250208_190503_Happy_Tails.jpg)
+![FriendsPage](Screenshot_20250208_190503_Happy_Tails.jpg)
 
 Update your information page
-![UpdateInfoPage](images/Screenshot_20250208_183211_Happy_Tails.jpg)
+![UpdateInfoPage](Screenshot_20250208_183211_Happy_Tails.jpg)
 
 ## Installation
 ### **1. Clone the Repository**  
